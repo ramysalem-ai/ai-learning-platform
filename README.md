@@ -2,15 +2,15 @@
 
 **A weekly series of hands-on workshops for building real, production-style AI systems — each one teaches by having you build it yourself, file by file, verified at every step.**
 
-Built for genuine beginners: plain-English explanations, one real file built from scratch (not disconnected snippets), a step-by-step setup walkthrough with every command as its own copy-pasteable block, and a "check yourself" full-file view at every checkpoint so you always know if your code matches.
+Built for genuine beginners: plain-English explanations, one real file built from scratch, a step-by-step setup walkthrough with every command as its own copy-pasteable block, and a "check yourself" full-file view at every checkpoint so you always know if your code matches.
 
 New workshop dropping weekly — this repo grows over time. ⭐ Star it to get notified.
 
 ## 🚀 Run it in 2 minutes
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/ramysalem-ai/ai-learning-platform.git
+cd ai-learning-platform
 pip install -r requirements.txt
 ```
 
