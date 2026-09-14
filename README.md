@@ -65,4 +65,4 @@ MIT, see [LICENSE](LICENSE). Clone it, learn from it, build on it.
 
 ---
 
-Built by [Ramy Salem](https://github.com/ramysalem-ai) — AI Success Architect, Deployment & Adoption.
+Built by [Ramy Salem](https://github.com/ramysalem-ai) — AI Deployment & Adoption.
