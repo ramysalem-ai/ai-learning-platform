@@ -555,7 +555,7 @@ if idx == -1:
                 "sequence, start to finish."
             )
             st.markdown("**1. Open PowerShell.** Press the Windows key, type `PowerShell`, press Enter.")
-            st.markdown("**2. Get the workshop files onto your computer.** You should have downloaded a `.zip` file for this workshop. Find it in your Downloads folder, right-click it, and choose **Extract All**.")
+            st.markdown("**2. Get the workshop files onto your computer.** Go to **github.com/ramysalem-ai/ai-learning-platform** in your browser. Click the green **Code** button, then **Download ZIP**. Find it in your Downloads folder, right-click it, and choose **Extract All**.")
             st.markdown("**3. Navigate to the folder:**")
             st.code('cd "C:\\Users\\YourName\\Downloads\\the-folder-you-extracted"', language="powershell")
             st.markdown("**4. Check what's inside:**")
