@@ -4,7 +4,7 @@
 
 Built for genuine beginners: plain-English explanations, one real file built from scratch, a step-by-step setup walkthrough with every command as its own copy-pasteable block, and a "check yourself" full-file view at every checkpoint so you always know if your code matches.
 
-New workshop dropping weekly — this repo grows over time. ⭐ Star it to get notified.
+New workshop dropping weekly , this repo grows over time. ⭐ Star it to get notified.
 
 ## 🚀 Run it in 2 minutes
 
@@ -14,7 +14,7 @@ cd ai-learning-platform
 pip install -r requirements.txt
 ```
 
-Windows PowerShell — if `pip` is blocked, use `python -m pip` instead:
+Windows PowerShell - if `pip` is blocked, use `python -m pip` instead:
 
 ```powershell
 $env:OPENAI_API_KEY="sk-..."
@@ -34,14 +34,14 @@ Get an OpenAI API key at [platform.openai.com/api-keys](https://platform.openai.
 
 ## 📂 This week's workshop
 
-### 🎧 Agentic Essentials — Build Production GPT Applications
+### 🎧 Agentic Essentials - Build Production GPT Applications
 A single AI agent, built from an empty file to a fully working customer support bot. Five parts, 30 progressive checkpoints, covering the agentic loop, coordinator/subagent patterns, tool design, structured output, and context management.
 📁 [`exercises/`](exercises/) · **Beginner**
 
 ## 🗂️ Repo structure
 
 ```
-Home.py                  # Catalog page — entry point
+Home.py                  # Catalog page - entry point
 styles.py                # Shared design system (color palette, theme)
 pages/                   # Streamlit guide pages
 exercises/                # 19 standalone exercise scripts
@@ -65,4 +65,4 @@ MIT, see [LICENSE](LICENSE). Clone it, learn from it, build on it.
 
 ---
 
-Built by [Ramy Salem](https://github.com/ramysalem-ai) — AI Deployment & Adoption.
+Built by [Ramy Salem](https://github.com/ramysalem-ai) - AI Deployment & Adoption.
