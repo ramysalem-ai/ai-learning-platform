@@ -1,6 +1,6 @@
-# AI Learning Platform
+# Build with AI
 
-**A weekly series of hands-on workshops for building real, production-style AI systems — each one teaches by having you build it yourself, file by file, verified at every step.**
+**A weekly series of hands-on workshops for building real, production-style AI agents - each one teaches by having you build it yourself, file by file, verified at every step.**
 
 Built for genuine beginners: plain-English explanations, one real file built from scratch, a step-by-step setup walkthrough with every command as its own copy-pasteable block, and a "check yourself" full-file view at every checkpoint so you always know if your code matches.
 
